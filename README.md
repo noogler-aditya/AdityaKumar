@@ -21,18 +21,14 @@
 ---
 
 ## 📌 Featured Projects  
-<table align="center">
-<tr>
-<td width="50%">
-<a href="https://github.com/noogler-aditya/sea_level_predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=sea_level_predictorr&theme=radical" />
-</a>
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/noogler-aditya/sea_level_predictorr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=sea_level_predictorr&theme=radical" />
+  </a>
+  <a href="https://github.com/noogler-aditya/your-other-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=your-other-repo&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -46,11 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
----
-
-## 🔢 Total Lines of Code Written  
+### 🔢 **Total Lines of Code Written**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=noogler-aditya&theme=radical" alt="Total Lines of Code" />
+  <img src="https://komarev.com/ghpvc/?username=noogler-aditya&label=Total%20Lines%20of%20Code&color=red&style=flat-square" alt="Total Lines of Code Counter" />
 </p>
 
 ---
