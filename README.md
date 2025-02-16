@@ -24,14 +24,12 @@
 <table align="center">
 <tr>
 <td width="50%">
-<a href="https://github.com/noogler-aditya/sea_level_predictorr">
+<a href="https://github.com/noogler-aditya/sea_level_predictor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=sea_level_predictorr&theme=radical" />
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/noogler-aditya/your-other-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=your-other-repo&theme=radical" />
-</a>
+
 </td>
 </tr>
 </table>
