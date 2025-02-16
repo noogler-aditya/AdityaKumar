@@ -1,8 +1,9 @@
 <h1 align="center">Hi there! I'm Aditya Kumar 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analysis+%7C+Database+%7C+Tech+Enthusiast;Passionate+about+Design+%26+Technology" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A9A5&width=500&lines=Data+Analyst+%7C+Database+%7C+Technology" alt="Typing Animation" />
 </p>
+
 
 ---
 
@@ -20,13 +21,6 @@
 
 ---
 
-## 📌 Featured Projects  
-<p align="center">
-  <a href="[https://github.com/noogler-aditya/sea_level_predictorr](https://github.com/noogler-aditya/sea_level_predictor)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=sea_level_predictorr&theme=radical" />
-  </a>
- 
-</p>
 
 ---
 
@@ -40,10 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
-### 🔢 **Total Lines of Code Written**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noogler-aditya&label=Total%20Lines%20of%20Code&color=red&style=flat-square" alt="Total Lines of Code Counter" />
 </p>
+
 
 ---
 
