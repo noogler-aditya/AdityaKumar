@@ -33,21 +33,9 @@
 ---
 
 ## 📌 Pinned Projects  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=sea-level-predictor&theme=radical)](https://github.com/your-github-username/your-repo-name)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&sea_level_predictorr&theme=radical)](https://github.com/your-github-username/your-repo-name)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical)](https://github.com/your-github-username/your-repo-name)
 
----
-
-## 📝 Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://your-blog-link.com)
-- [Post Title 2](https://your-blog-link.com)
-- [Post Title 3](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ _[Read More](https://your-blog-homepage.com)_  
-
----
 
 ## 👥 Visitors Counter  
 <p align="center">
