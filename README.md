@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Aditya Kumar </h1>
+<h1 align="center">Hi there! I'm Aditya Kumar 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=UX+Designer+%7C+Web+Developer+%7C+Tech+Enthusiast;Passionate+about+Design+%26+Technology" alt="Typing Animation" />
@@ -7,48 +7,54 @@
 ---
 
 ## 🚀 About Me  
-💻 **Data-Driven Problem Solver 📊🤖** | Experienced in **Python, postgreSQL, C++**.  
-🎨 **Worked on** | Proficient in **Data Analysis with python done couple of projects**.  
-🌱 **Currently Learning**: Exploring **Cloud Native & Kubernetes**.   
+💻 **Data-Driven Problem Solver 📊🤖** | Experienced in **Python, PostgreSQL, C++**.  
+🎨 **Worked on** | Proficient in **Data Analysis with Python - Completed Multiple Projects**.  
+🌱 **Currently Learning**: Exploring **Cloud Native & Kubernetes**.  
 
 ---
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noogler-aditya&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noogler-aditya&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10&animation=true" alt="GitHub Trophies" />
 </p>
+
+---
+
+## 📌 Featured Projects  
+<table align="center">
+<tr>
+<td width="50%">
+<a href="https://github.com/noogler-aditya/sea_level_predictorr">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=sea_level_predictorr&theme=radical" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/noogler-aditya/your-other-repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=your-other-repo&theme=radical" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Aditya's%20GitHub%20Stats" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=radical&fire=F75C7E" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📌 Pinned Projects  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=sea_level_predictorr&theme=radical)](https://github.com/your-github-username/your-repo-name)
-
-
-
-## 👥 Visitors Counter  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noogler-aditya&style=flat-square&color=blue" alt="Profile Views Counter" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
-📧 **Email**: [adityanoogler01@gmail.com.com](mailto:adityanoogler01@gmail.com.com)  
-🔗 **LinkedIn**: [linkedin.com/in/aditya-kumar-a03237243/](#)  
+📧 **Email**: [adityanoogler01@gmail.com](mailto:adityanoogler01@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/aditya-kumar-a03237243](#)  
 🚀 **GitHub**: [github.com/noogler-aditya](#)  
 
 ---
 
-### ⭐ _"Striving for simplicity in design and elegance in code!"_
+### ⭐ _"Striving for simplicity in design and elegance in code!"_  
