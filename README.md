@@ -33,7 +33,7 @@
 ---
 
 ## 📌 Pinned Projects  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical)](https://github.com/your-github-username/your-repo-name)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=noogler-aditya&repo=sea-level-predictor&theme=radical)](https://github.com/your-github-username/your-repo-name)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical)](https://github.com/your-github-username/your-repo-name)
 
 ---
