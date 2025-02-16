@@ -50,6 +50,13 @@
 
 ---
 
+## 🔢 Total Lines of Code Written  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=noogler-aditya&theme=radical" alt="Total Lines of Code" />
+</p>
+
+---
+
 ## 📫 Connect with Me  
 📧 **Email**: [adityanoogler01@gmail.com](mailto:adityanoogler01@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/aditya-kumar-a03237243](#)  
