@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Aditya Kumar 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=UX+Designer+%7C+Web+Developer+%7C+Tech+Enthusiast;Passionate+about+Design+%26+Technology" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Data+Analysis+%7C+Database+%7C+Tech+Enthusiast;Passionate+about+Design+%26+Technology" alt="Typing Animation" />
 </p>
 
 ---
