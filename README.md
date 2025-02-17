@@ -19,7 +19,7 @@
 ---
 
  
-📊 GitHub Insights
+## 📊 GitHub Insights
 
 <div align="center">
 🚀 GitHub Stats & Streak
