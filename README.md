@@ -22,18 +22,17 @@
 
 
   
+📊 GitHub Insights
+
 <div align="center">
-🔥 Contribution Stats
-<a href="https://github.com/noogler-aditya"> <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=🚀 Aditya's GitHub Stats" alt="GitHub Stats" width="48%" /> </a> 
-  <a href="https://github.com/noogler-aditya"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=tokyonight&fire=FF5733&currStreakLabel=00E6FE" alt="GitHub Streak" width="48%" /> </a>
+🚀 GitHub Stats & Streak
+<a href="https://github.com/noogler-aditya"> <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FFAD32&text_color=FFFFFF&icon_color=00E6FE" alt="GitHub Stats" width="48%" /> </a> <a href="https://github.com/noogler-aditya"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=tokyonight&fire=FF5733&currStreakLabel=00E6FE&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%" /> </a>
 
 🚀 Top Languages Used
-<a href="https://github.com/noogler-aditya"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=00000000&title_color=FFAD32&text_color=FFFFFF" alt="Top Languages" width="48%" /> </a>
+<a href="https://github.com/noogler-aditya"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=0d1117&title_color=FFAD32&text_color=FFFFFF" alt="Top Languages" width="48%" /> </a>
 
 🔢 Total Lines of Code Written
-<a href="https://github.com/noogler-aditya"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=noogler-aditya&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" alt="Total Lines of Code" width="48%" /> </a> </div>
-
-
+<!-- This counter is generated using GitHub Action (lowlighter/metrics) --> <a href="https://github.com/noogler-aditya"> <img src="https://raw.githubusercontent.com/noogler-aditya/noogler-aditya/main/metrics.plugin.lines.svg" alt="Total Lines of Code" width="48%" /> </a> </div>
 ---
 
 ## 📫 Connect with Me  
