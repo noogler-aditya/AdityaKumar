@@ -15,9 +15,7 @@
 ---
 
 ## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noogler-aditya&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10&animation=true" alt="GitHub Trophies" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=noogler-aditya&theme=algolia&no-frame=true&column=6&margin-w=15&margin-h=15&animation=true" alt="GitHub Trophies" /> </p>
 
 ---
 
