@@ -15,26 +15,22 @@
 ---
 
 ## 🏆 GitHub Achievements  
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=noogler-aditya&theme=algolia&no-frame=true&column=6&margin-w=15&margin-h=15&animation=true" alt="GitHub Trophies" /> </p>
-
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=noogler-aditya&theme=transparent&no-frame=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"> </div>
 ---
 
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Aditya's%20GitHub%20Stats" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=radical&fire=F75C7E" alt="GitHub Streak" width="48%" />
-</p>
+  
+<div align="center">
+🔥 Contribution Stats
+<a href="https://github.com/noogler-aditya"> <img src="https://github-readme-stats.vercel.app/api?username=noogler-aditya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=🚀 Aditya's GitHub Stats" alt="GitHub Stats" width="48%" /> </a> <a href="https://github.com/noogler-aditya"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=noogler-aditya&theme=tokyonight&fire=FF5733&currStreakLabel=00E6FE" alt="GitHub Streak" width="48%" /> </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="48%" />
-</p>
+🚀 Top Languages Used
+<a href="https://github.com/noogler-aditya"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogler-aditya&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&bg_color=00000000&title_color=FFAD32&text_color=FFFFFF" alt="Top Languages" width="48%" /> </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noogler-aditya&label=Total%20Lines%20of%20Code&color=red&style=flat-square" alt="Total Lines of Code Counter" />
-</p>
+🔢 Total Lines of Code Written
+<a href="https://github.com/noogler-aditya"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=noogler-aditya&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" alt="Total Lines of Code" width="48%" /> </a> </div>
 
 
 ---
