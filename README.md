@@ -23,6 +23,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/aditya-kumar-a03237243" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="aditya-kumar-linkedin" /></a>
   <a href="https://github.com/noogler-aditya" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="noogler-aditya-github" /></a>
+<a href="https://leetcode.com/u/adityaagrawal1528/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="aditya-leetcode-profile" /></a>
   </p>
 
 ---
