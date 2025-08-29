@@ -67,10 +67,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noogler-aditya&theme=dracula" alt="GitHub Profile Summary Card" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noogler-aditya&theme=dracula" alt="GitHub Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noogler-aditya&theme=dracula" alt="Repos per Language Card" />
-</p>
+
 <h2>📊 GitHub Stats & Insights</h2>
 
   <table>
